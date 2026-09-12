@@ -1,0 +1,15 @@
+subsidiary, hops
+"Alphabet Capital US LLC", 1
+"XXVI Holdings Inc.", 1
+"Google LLC", 2
+newIn2025
+"disruptions-in-our-ability-to"
+droppedAfter2024
+"the-trading-price-for-our"
+year, totalRevenueMusd
+2024, 350018
+2025, 402836
+segment, growthPct
+"Google Cloud", 35.8
+"Google Services", 12.4
+"Other Bets", -6.7

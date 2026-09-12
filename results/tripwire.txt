@@ -1,0 +1,9 @@
+what, n
+"nodes:Company", 4
+"nodes:Filing", 2
+"nodes:RiskFactor", 29
+"nodes:Segment", 3
+"rels:DISCLOSED_IN", 56
+"rels:FILED_BY", 2
+"rels:OWNS", 3
+"rels:REPORTED_IN", 6
